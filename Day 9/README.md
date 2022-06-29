@@ -12,6 +12,12 @@ These resistors are often used in many circuits where it is required to sense th
 
 ![capture_QBUb2iFJLO](https://user-images.githubusercontent.com/84783465/176489410-9635660a-da85-4eaf-a75a-d8f2d159c3ad.PNG)
 
+![WhatsApp Image 2022-06-29 at 10 17 18 PM](https://user-images.githubusercontent.com/84783465/176493585-ce1f0d95-f915-4d12-90b5-2e92d6668823.jpeg)
+
+
+
+
+
 # Solar Panels
 
 Solar panels work by absorbing sunlight with photovoltaic cells, generating direct current (DC) energy and then converting it to usable alternating current (AC) energy with the help of inverter technology. AC energy then flows through the home’s electrical panel or any appliances  and is distributed accordingly. 
